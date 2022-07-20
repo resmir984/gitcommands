@@ -1,0 +1,4 @@
+Git init= initializing git rep to present working repo
+Git status-list all untracked files
+Git add-A=changed files/untracked files added into staging area
+Git commit -m 'msg'=>staging area to local repos
